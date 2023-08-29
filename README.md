@@ -28,4 +28,3 @@ $ git status
 $ touch README.me
 ```
 
-## 📖 Referências
