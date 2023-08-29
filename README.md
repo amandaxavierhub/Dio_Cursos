@@ -10,7 +10,7 @@ Aprendendo versionamento de código.
 
 | Aulas | Resumos |
 |-------|---------|
-|gravando alterações no rep local 
+|gravando alterações no rep local | [resumo (https://github.dev/amandaxavierhub/Dio_Cursos/tree/main)] |
 
 ```
 $ mkdir resumos-git-GitHub
